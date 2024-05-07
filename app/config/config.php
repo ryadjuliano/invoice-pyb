@@ -16,7 +16,7 @@
 | environments.
 |
 */
-$config['base_url'] = 'https://invoice.iamindonesia.my.id/';
+$config['base_url'] = 'https://invoice.iamindonesia.site/';
 
 /*
 |--------------------------------------------------------------------------
